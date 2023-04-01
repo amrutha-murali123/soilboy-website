@@ -1,0 +1,452 @@
+.gridcontainer{
+    display: grid;
+    grid-template-columns: 1fr;
+    position: relative;
+    background-image: url("imagesofsoilbiy/picture.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.hdrlist{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    
+    
+    color: rgb(21, 20, 20);
+    fill: rgb(193, 185, 185);
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+  
+    .hdr{
+        
+        height: 50px;
+    
+}
+.part1{
+    margin-right: 280px;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.part2{
+    margin-left: 150px;
+    width: 200px;
+    display: flex;
+    align-items: end;
+    font-size: 20px;
+}
+.aaru{
+    margin-right: 200px;
+    font-size: 40px;
+}
+.pathu{
+    margin-left: 5px;
+}
+.page1{
+    height: 650px;
+    object-fit: fill;
+    width: 1500px;}
+   /* position: relative;
+    background-image: url("/apple/page1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;*/
+
+.writing{
+    position: absolute;
+    
+    color: black;
+    margin-top: 300px;
+    margin-left: 200px;
+  
+
+}
+.twolyn{
+    margin-top: 250px;
+    margin-left: 90px;
+    font-size: 50px;
+}
+.fbut{
+    margin-left: 87px;
+    height: 40px;
+    width: 140px;
+    border-width: 3px;
+    font-size: 15px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: rgb(240, 223, 204);
+}
+.gridcontainer22{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: azure;
+    
+    
+    
+}
+
+.item1{
+    background-image: url("imagesofsoilbiy/dhoim.jpg") ;
+    height: 700px;
+    object-fit: fill;
+    
+    position: relative;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.item2{
+    background-image: url("imagesofsoilbiy/onnim.jpg") ;
+    height: 700px;
+    object-fit: fill;
+    
+    position: relative;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: aqua;
+
+}
+.item3{
+    background-image: url("imagesofsiolbiy/teenim.jpg") ;
+    height: 680px;
+    object-fit: fill;
+    padding-top: 20px;
+    position: relative;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.things{
+    margin-left: 90px;
+    margin-top: 70px;
+    color: black;
+    font-size: 30px;
+    
+}
+.letter2{
+    margin-top: 25px;
+    font-size: 20px;
+    width: 100px;
+    border-width: 3px;
+    border-radius: 20px;
+}
+.SOLDOUT1{
+    margin-top: 170px;
+    border-width: 3px;
+    font-size: 15px;
+    color: azure;
+    background-color: black;
+}
+.SOLDOUT2{
+    margin-top: 150px;
+    color: azure;
+    background-color: black;
+    border-width: 3px;
+    font-size: 15px;
+}
+.super1{
+    margin-top: 560px;
+    margin-left: 150px;
+}
+.super2{
+    margin-top: 520px;
+    margin-left: 105px;
+
+}
+.super3{
+    margin-top: 533px;
+    margin-left: 100px;
+}
+.cap1sub{
+    margin-top: -10px;
+}
+.cap2{
+    font-size: 18px;
+}
+.cap2sub{
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.cap3{
+    font-size: 18px;
+}
+.cap3sub{
+    margin-top: -13px;
+}
+.gridcontainer33{
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 550px;
+    object-fit: fill;
+    /*width: 1500px;*/
+    position: relative;
+    background-image: url("imagesofsoilbiy/theeeeennim.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 55px;
+    background-color: azure;
+    margin-top: 280px;
+
+    
+}   
+.thoughts{
+    margin-top: 350px;
+    margin-left: 70px;
+    position: absolute;
+    color: white;
+
+}
+.letter13{
+    font-size: 25px;
+    font-weight: 25px;
+
+}
+.letter20{
+    margin-top: 15px;
+
+}
+.letter23{
+    margin-top: 25px;
+    border-width: 3px;
+    border-radius: 19px;
+    background: none;
+    color: white;
+    border-color: white;
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+
+}
+.gridcontainer44{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 700px;
+    
+    
+}
+.achz{
+    background-image: url("imagesofsoilbiy/lastim.jpg");
+    position: relative;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 80px;
+    
+}
+.amz{
+    margin-top: 390px;
+    margin-left: 200px;
+}
+.chotu{
+    font-size: 38px;
+}
+.motu{
+    font-size: 38px;
+}
+.buttonpro{
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+    margin-top: 25px;
+    border-width: 3px;
+    border-radius: 19px;
+    
+}
+.gridcontainer55{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(3,200px);
+    
+    row-gap: 10px;
+    column-gap: 10px;
+    margin-top: 500px;
+    margin: 150px;
+}
+.onney{
+    background-image: url("imagesofsoilbiy/palm2.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.randey{
+    background-image: url("imagesofsoilbiy/palm1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.mooney{
+    background-image: url("imagesofsoilbiy/palm3.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.naaley{
+    background-image: url("imagesofsoilbiy/palm4.jpe");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.anjey{
+    background-image: url("imagesofsoilbiy/palm5.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.aarey{
+    background-image: url("imagesofsoilbiy/palm9.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.eazhey{
+    background-image: url("imagesofsoilbiy/palm10.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ettey{
+    background-image: url("imagesofsoilbiy/palm2.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ombethey{
+    background-image: url("imagesofsoilbiy/palm4.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.pathey{
+    background-image: url("imagesofsoilbiy/palm10.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.pathinonney{
+    background-image: url("imagesofsoilbiy/palm2.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.panthrendey{
+    background-image: url("imagesofsoilbiy/palm5.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.underlyn{
+    margin-bottom: 150px;
+    margin-left: 630px;
+    margin-top: -90px;
+    font-size: 23px;
+}
+.footer{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(46, 45, 45);
+}
+.stayupdated{
+    font-size: 35px;
+    color: white;
+    margin-bottom: -5px;
+    
+    
+}
+.stayupwith{
+    font-size: 18px;
+    color: white;
+}
+.footerbut1{
+    height: 66px;
+    width: 284px;
+    font-size: 15px;
+    color: rgb(165, 150, 150);
+    justify-content: left;
+    
+}
+.footerbut2{
+    height: 68px;
+    width: 133px;
+    background-color:rgb(46, 45, 45);
+    color: white;
+    border-color: white;
+    border-radius: 35px;
+    border-width: 3px;
+    margin-left: 1px;
+    font-size: 15px;
+}
+.footerbuttons{
+    margin-top: 35px;
+}
+.footerendlyns{
+    display: flex;
+    color: white;
+    margin-top: 50px;
+}
+.ftendlyn2{
+    margin-left: 15px;
+    
+
+}
+.partsec1{
+    margin-left: 60px;
+    padding-top: 40px;
+}
+.footer{
+    display: flex;
+    color: white;
+}
+.cutter{
+    margin-left: 500px;
+    display: flex;
+}
+.partsec3{
+    margin-left: 100px;
+    margin-top: 65px;
+}
+.follow{
+    font-size: 35px;
+}
+.twolines{
+    line-height: 0px;
+    font-size: 18px;
+}
+.instagram{
+    margin-top: -17px;
+    font-size: 18px;
+}
+.partsec2{
+    margin-top: 34px;
+}
+.facebook{
+    font-size: 18px;
+}
+.contact{
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+.hello{
+    font-size: 18px;
+    margin-top: 15px;
+    padding-top: 40px;
+}
+.soilboy{
+    font-size: 18px;
+    margin-top: 30px;
+    padding-top: 50px;
+
+}
+
